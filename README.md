@@ -4,7 +4,7 @@ Magda Arques - portfoli
 
 *[Magda, Arques](https://arquesm.github.io/portfoli/)
 
-*[Miriam, Shafik]()
+*[Miriam, Shafik](https://mimi-sh.github.io/Portfoli/)
 
 *[Miriam, Delgado]()
 
